@@ -1,0 +1,44 @@
+#imghome {
+	width: 15%;
+	height: 15%;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	padding: 5px;
+	}
+
+.topnav {
+	background-color: black;
+	width: auto;
+	font-size: 30px;
+	padding: 20px;
+	}
+
+.content {
+	background-color: grey;
+	padding: 5px;
+	}
+
+a {
+	color: white;
+	}
+
+.datefield {
+	font-style: italic;
+	font-size: 10px;
+}
+
+h1 {
+	font-size: 3em;
+
+}
+
+.title {
+	text-align: center;
+	font-size: 3em;
+}
+
+div {
+	resize:both;
+	overflow: auto;
+}
